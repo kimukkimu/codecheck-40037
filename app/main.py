@@ -11,5 +11,5 @@ def main(argv):
         elif v == "織田信長":
             print ("Hello 織田信長!")
         elif v == "codecheck":
-            print ("Hello World")
+            print ("Hello codecheck!")
 
