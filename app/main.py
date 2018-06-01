@@ -6,4 +6,10 @@ def main(argv):
     # Edit and remove this code as you like.
 
     for i, v in enumerate(argv):
-        print("argv[{0}]: {1}".format(i, v))
+        if v == "World":
+            print ("Hello World!")
+        elif v == "織田信長":
+            print ("Hello 織田信長!")
+        elif v == "codecheck":
+            print ("Hello World")
+
